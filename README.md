@@ -1,9 +1,5 @@
 # TODO's APP BACKEND
 
-## DESCRIPTION
-
-## HOW TO INSTALL
-
 ## API CONTRACT
 
 ### 1. Get All Items
